@@ -1,5 +1,5 @@
 fun main() {
-    println("Wellcome to expression evaluator")
+    println("Well come to expression evaluator")
 
     while (true) {
     println("enter the expression:")
